@@ -1,3 +1,4 @@
 # test
-test repo for learning github
-I will have chicekn with some vegetables
+Test repo for updating files in github.
+
+I will have chicken with some vegetables for lunch.
